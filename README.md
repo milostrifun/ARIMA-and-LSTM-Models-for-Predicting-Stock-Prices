@@ -9,8 +9,11 @@ Titled "Comparative Analysis of ARIMA and LSTM Models for Predicting Stock Price
 Moreover, this study endeavors to enhance the broader understanding of financial predictive analytics. It seeks to deliver practical insights for a range of stakeholders, including investors, financial institutions, and the rapidly evolving fintech sector. In doing so, the research not only assists in the refinement of investment decision-making processes but also promotes innovation in the application of financial technology.
  
 The following questions guide the research:
+
 **1. How do ARIMA and LSTM models perform in predicting the stock prices of large-cap Spanish banks? This question seeks to evaluate and compare the accuracy of both models, specifically within the Spanish banking sector.**
+
 **2. How does the use of closing price as the sole feature in the ARIMA model impact its predictive accuracy compared to the LSTM model, which may utilize a broader set of features? This aims to explore the effectiveness of a singular-feature approach in ARIMA versus a multi-feature approach in LSTM.**
+
 **3. What are the optimal parameter settings for the ARIMA and LSTM models to enhance their predictive accuracy in forecasting the stock prices of large-cap Spanish banks? Here, the focus is on identifying and optimizing critical parameters in both models to improve their forecast precision.**
  
 Through these questions, the study intends to provide a nuanced understanding of the applicability and effectiveness of ARIMA and LSTM models in a sector-specific context, thereby enriching the field of financial econometrics and predictive modeling.
